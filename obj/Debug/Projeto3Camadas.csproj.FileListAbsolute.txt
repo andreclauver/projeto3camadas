@@ -1,0 +1,5 @@
+H:\Projeto3CamadasPOO\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.csprojAssemblyReference.cache
+H:\Projeto3CamadasPOO\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.FrmFutebol.resources
+H:\Projeto3CamadasPOO\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.Properties.Resources.resources
+H:\Projeto3CamadasPOO\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.Ui.Login.resources
+H:\Projeto3CamadasPOO\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.csproj.GenerateResource.cache
